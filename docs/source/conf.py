@@ -2,7 +2,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('../..'))
 
-project = 'pytemplate'
+project = 'physics2d'
 copyright = '2020, Ray Chen'
 author = 'Ray Chen'
 
